@@ -85,7 +85,7 @@ Check the results in the Notebook.
 ---
 
 ## **Key Links**
-Notebook – Detailed implementation and insights.
+[Notebook](https://github.com/RohithCherukuri816/RohithCherukuri816-ML-Based-Customer-Segmentation-for-Targeted-Marketing/blob/main/ML_Based_Customer_Segmentation_for_Targeted_Marketing.ipynb) – Detailed implementation and insights.
 
 Dataset – Customer data used for clustering.
 
