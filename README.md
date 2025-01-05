@@ -24,8 +24,8 @@ The goal of this project is to apply **unsupervised learning** to segment custom
 The project highlights:
 - Preprocessing and handling missing data.
 - Machine learning clustering with K-Means.
-- Evaluation metrics to validate the clustering model.
 - A Streamlit dashboard for visualizing insights.
+- - Evaluation metrics to validate the clustering model.
 
 ---
 
