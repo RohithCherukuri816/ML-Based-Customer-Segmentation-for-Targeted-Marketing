@@ -25,7 +25,7 @@ The project highlights:
 - Preprocessing and handling missing data.
 - Machine learning clustering with K-Means.
 - A Streamlit dashboard for visualizing insights.
-- - Evaluation metrics to validate the clustering model.
+- Evaluation metrics to validate the clustering model.
 
 ---
 
