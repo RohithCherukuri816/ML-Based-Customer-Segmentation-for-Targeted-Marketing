@@ -66,7 +66,7 @@ Evaluate clustering models with:
 - Calinski-Harabasz Index
 - Davies-Bouldin Index
 
-3. Dashboard
+## **3. Dashboard**
 
 A user-friendly Streamlit dashboard for:
 - Visualizing customer segments.
