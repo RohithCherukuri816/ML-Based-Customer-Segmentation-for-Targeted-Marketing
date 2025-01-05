@@ -62,12 +62,14 @@ The data is preprocessed to handle missing values, scale numerical features, and
 - Visualize clusters using scatter plots and heatmaps.
  
 2) Model Evaluation
-  Evaluate clustering models with:
+
+Evaluate clustering models with:
 - Silhouette Score
 - Calinski-Harabasz Index
 - Davies-Bouldin Index
 
 3. Dashboard
+
 A user-friendly Streamlit dashboard for:
 - Visualizing customer segments.
 - Exploring cluster distributions.
@@ -79,12 +81,14 @@ Here are the metrics used to evaluate the quality of clusters:
 - Silhouette Score: Measures the cohesion of clusters.
 - Davies-Bouldin Index: Compares the compactness and separation of clusters.
 - Calinski-Harabasz Index: Assesses the ratio of within-cluster dispersion to between-cluster dispersion.
+
 Check the results in the Notebook.
 
 ---
 
 ## **Key Links**
 Notebook – Detailed implementation and insights.
+
 Dataset – Customer data used for clustering.
 
 
