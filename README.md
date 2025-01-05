@@ -55,7 +55,7 @@ The data is preprocessed to handle missing values, scale numerical features, and
 
 ## **Features**
 
-1. ## **Clustering**
+## 1. **Clustering**
 - Use K-Means Clustering to segment customers.
 - Visualize clusters using scatter plots and heatmaps.
  
