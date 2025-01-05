@@ -8,7 +8,7 @@ This repository contains a **Customer Segmentation** project that leverages **Ma
 
 - [Overview](#overview)
 - [Technologies](#technologies)
-- [Dataset](#dataset)
+- [Dataset Description](#dataset-description)
 - [Features](#features)
 - [Model Evaluation](#model-evaluation)
 - [Dashboard](#dashboard)
