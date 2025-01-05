@@ -22,7 +22,12 @@ This repository contains a **Customer Segmentation** project that leverages **Ma
 
 ## **Overview**
 
-The goal of this project is to apply **unsupervised learning** to segment customers based on key features, which can be used for targeted marketing, product recommendations, and customer retention strategies. The project employs the **K-Means clustering algorithm** for customer segmentation, followed by model evaluation and a real-time recommendation system.
+The goal of this project is to apply **unsupervised learning** to segment customers based on key features, which can be used for targeted marketing, product recommendations, and customer retention strategies. The project employs the **K-Means clustering algorithm** for customer segmentation, followed by model evaluation and a real-time interactive dashboard.
+The project highlights:
+- Preprocessing and handling missing data.
+- Machine learning clustering with K-Means.
+- Evaluation metrics to validate the clustering model.
+- A Streamlit dashboard for visualizing insights.
 
 ---
 
@@ -40,12 +45,56 @@ The goal of this project is to apply **unsupervised learning** to segment custom
 
 ---
 
-## **Installation Instructions**
+## **Dataset Description**
 
-To set up the project locally, follow these instructions:
+The dataset used in this project contains:
+- Demographic details: Age, Ever Married, Graduated, Profession, Family size etc.
+- Behavioral details: Spending Score, Work experience, etc.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/customer-segmentation.git
-   cd customer-segmentation
+---
+
+## **Features**
+
+1) Clustering
+- Use K-Means Clustering to segment customers.
+- Visualize clusters using scatter plots and heatmaps.
+ 
+2) Model Evaluation
+Evaluate clustering models with:
+- Silhouette Score
+- Calinski-Harabasz Index
+- Davies-Bouldin Index
+
+3. Dashboard
+A user-friendly Streamlit dashboard for:
+- Visualizing customer segments.
+- Exploring cluster distributions.
+
+---
+
+## **Model Evaluation**
+Here are the metrics used to evaluate the quality of clusters:
+- Silhouette Score: Measures the cohesion of clusters.
+- Davies-Bouldin Index: Compares the compactness and separation of clusters.
+- Calinski-Harabasz Index: Assesses the ratio of within-cluster dispersion to between-cluster dispersion.
+Check the results in the Notebook.
+
+---
+
+## **Key Links**
+Notebook – Detailed implementation and insights.
+Dataset – Customer data used for clustering.
+
+
+
+
+
+
+   
+
+
+
+
+
+
 
