@@ -1,6 +1,4 @@
-ML-Based-Customer-Segmentation-for-Targeted-Marketing
-
-# **Customer Segmentation with Machine Learning**
+# **ML-Based-Customer-Segmentation-for-Targeted-Marketing**
 
 This repository contains a **Customer Segmentation** project that leverages **Machine Learning (ML)** techniques to analyze customer data, group them into distinct segments, and provide valuable insights for marketing and sales strategies. The project utilizes clustering algorithms, model evaluation metrics, and visualization techniques to generate actionable insights.
 
