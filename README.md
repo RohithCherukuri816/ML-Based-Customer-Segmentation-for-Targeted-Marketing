@@ -50,7 +50,7 @@ The project highlights:
 The dataset used in this project contains:
 - Demographic details: Age, Ever Married, Graduated, Profession, Family size etc.
 - Behavioral details: Spending Score, Work experience, etc.
----
+-
 The data is preprocessed to handle missing values, scale numerical features, and encode categorical variables.
 
 ---
