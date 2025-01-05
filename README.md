@@ -60,7 +60,7 @@ The dataset used in this project contains:
 - Visualize clusters using scatter plots and heatmaps.
  
 2) Model Evaluation
-Evaluate clustering models with:
+  Evaluate clustering models with:
 - Silhouette Score
 - Calinski-Harabasz Index
 - Davies-Bouldin Index
