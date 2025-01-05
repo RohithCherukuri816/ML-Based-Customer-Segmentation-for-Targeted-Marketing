@@ -80,7 +80,7 @@ Here are the metrics used to evaluate the quality of clusters:
 - Davies-Bouldin Index: Compares the compactness and separation of clusters.
 - Calinski-Harabasz Index: Assesses the ratio of within-cluster dispersion to between-cluster dispersion.
 
-Check the results in the Notebook.
+Check the results in the [Notebook](https://github.com/RohithCherukuri816/RohithCherukuri816-ML-Based-Customer-Segmentation-for-Targeted-Marketing/blob/main/ML_Based_Customer_Segmentation_for_Targeted_Marketing.ipynb).
 
 ---
 
