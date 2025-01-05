@@ -36,7 +36,7 @@ The goal of this project is to apply **unsupervised learning** to segment custom
 - **Streamlit** – Interactive Dashboard
 - **Flask** – Web framework for the recommendation system
 - **ngrok** – Expose local server to the internet for public access
-- **Jupyter Notebooks** – For experiments and quick testing
+- **Google Colab** – For experiments and quick testing
 
 ---
 
