@@ -53,7 +53,8 @@ Demographic details:
 - Graduated
 - Profession
 - Family size, etc.
-  
+
+
 Behavioral details:
 - Spending Score
 -  Work experience, etc.
