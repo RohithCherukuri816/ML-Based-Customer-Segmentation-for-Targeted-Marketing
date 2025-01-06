@@ -47,14 +47,14 @@ The project highlights:
 
 The dataset used in this project contains:
 
-## **Demographics Details:**
+### **Demographics Details:**
 - Age
 - Ever Married
 - Graduated
 - Profession
 - Family size, etc.<br>
 
-## **Behavioral details:**
+### **Behavioral details:**
 - Spending Score
 -  Work experience, etc.
 
