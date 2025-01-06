@@ -12,6 +12,7 @@ This repository contains a **Customer Segmentation** project that leverages **Ma
 - [Features](#features)
 - [Model Evaluation](#model-evaluation)
 - [Dashboard](#dashboard)
+- [Analytics](#Analytics)
 - [Usage](#usage)
 - [Key Links](#Key-Links)
 
@@ -81,6 +82,30 @@ A user-friendly Streamlit dashboard for:
 - Exploring cluster distributions.
 
 ---
+
+## ** Analytics**
+
+To enhance the analytical capabilities of this project, I integrated **Mixpanel**, a powerful analytics platform for tracking user behavior and customer profiles.
+
+---
+
+### **Steps for Mixpanel Integration**
+1. **Customer Profiles**:
+   - Pushed key customer attributes (e.g., age, profession, spending score, family size) to Mixpanel.
+   - Each customer profile helps analyze demographic trends and behavioral insights.
+
+2. **Event Tracking**:
+   - Logged user interactions, such as segmentation checks and behavioral actions.
+   - Events include:
+     - `Segmentation Check`
+     - `User Login`
+     - Custom attributes like "Age Group" and "Spending Score."
+
+3. **Mixpanel Dashboard**:
+   - Used Mixpanel's **Live View** to verify data uploads.
+   - Analyzed retention, engagement, and user journeys.
+
+
 
 ## **Model Evaluation**
 Here are the metrics used to evaluate the quality of clusters:
