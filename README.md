@@ -52,8 +52,7 @@ Demographic details:
 - Ever Married
 - Graduated
 - Profession
-- Family size, etc.
-
+- Family size, etc.<br>
 
 Behavioral details:
 - Spending Score
