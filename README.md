@@ -13,7 +13,7 @@ This repository contains a **Customer Segmentation** project that leverages **Ma
 - [Model Evaluation](#model-evaluation)
 - [Dashboard](#dashboard)
 - [Analytics](#Analytics)
-- [Usage](#usage)
+- [Mix Panel Dashboard Screenshots](#Mix-Panel-Dashboard-Screenshots)
 - [Key Links](#Key-Links)
 
 ---
