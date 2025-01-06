@@ -99,13 +99,12 @@ To enhance the analytical capabilities of this project, I integrated **Mixpanel*
    - Events include:
      - `Segmentation Check`
      - `User Login`
-     - Custom attributes like "Age Group" and "Spending Score."
 
 3. **Mixpanel Dashboard**:
    - Used Mixpanel's **Live View** to verify data uploads.
    - Analyzed retention, engagement, and user journeys.
 
-
+---
 
 ## **Model Evaluation**
 Here are the metrics used to evaluate the quality of clusters:
