@@ -87,8 +87,6 @@ A user-friendly Streamlit dashboard for:
 
 To enhance the analytical capabilities of this project, I integrated **Mixpanel**, a powerful analytics platform for tracking user behavior and customer profiles.
 
----
-
 ### **Steps for Mixpanel Integration**
 1. **Customer Profiles**:
    - Pushed key customer attributes (e.g., age, profession, spending score, family size) to Mixpanel.
