@@ -83,7 +83,7 @@ A user-friendly Streamlit dashboard for:
 
 ---
 
-## ** Analytics**
+## **4. Analytics**
 
 To enhance the analytical capabilities of this project, I integrated **Mixpanel**, a powerful analytics platform for tracking user behavior and customer profiles.
 
