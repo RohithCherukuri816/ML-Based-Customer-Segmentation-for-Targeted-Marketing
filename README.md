@@ -99,8 +99,8 @@ To enhance the analytical capabilities of this project, I integrated **Mixpanel*
      - `User Login`
 
 3. **Mixpanel Dashboard**:
-   - Used Mixpanel's **Live View** to verify data uploads.
-   - Analyzed retention, engagement, and user journeys.
+   - Used Mixpanel's [**Events**](https://github.com/RohithCherukuri816/RohithCherukuri816-ML-Based-Customer-Segmentation-for-Targeted-Marketing/blob/main/Events.png), [**Session Metrics**](https://github.com/RohithCherukuri816/RohithCherukuri816-ML-Based-Customer-Segmentation-for-Targeted-Marketing/blob/main/Session%20Metrics.png) to verify data uploads.
+   - Analyzed retention, engagement, and [**User**](https://github.com/RohithCherukuri816/RohithCherukuri816-ML-Based-Customer-Segmentation-for-Targeted-Marketing/blob/main/Users.png) journeys.
    - [Events](https://github.com/RohithCherukuri816/RohithCherukuri816-ML-Based-Customer-Segmentation-for-Targeted-Marketing/blob/main/Events.png)
 
 ---
