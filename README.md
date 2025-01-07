@@ -29,7 +29,7 @@ The project highlights:
 
 ---
 
-## **Technologies**
+## **Technology Stack**
 
 - **Python 3.x**
 - **Pandas** – Data manipulation and analysis
@@ -80,8 +80,6 @@ Evaluate clustering models with:
 A user-friendly Streamlit dashboard for:
 - Visualizing customer segments.
 - Exploring cluster distributions.
-
----
 
 ## **4. Analytics**
 
