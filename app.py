@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load the customer data
-data = pd.read_csv('customer_data_with_clusters.csv')  # Replace with your dataset
+data = pd.read_csv('customer_data.csv')  # Replace with your dataset
 clusters = data['Cluster']  # Assuming cluster labels exist
 
 # Streamlit dashboard layout
