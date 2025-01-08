@@ -116,7 +116,7 @@ Check the results in the [Notebook](https://github.com/RohithCherukuri816/Rohith
 
 [Dataset](https://github.com/RohithCherukuri816/RohithCherukuri816-ML-Based-Customer-Segmentation-for-Targeted-Marketing/blob/main/customer_data.csv) – Customer data used for clustering.
 
-[Deployment Link](https://fc36-35-237-74-88.ngrok-free.app) – Project is Live at here
+[Deployment Link](https://ml-based-customer-segmentation-for-targeted-marketing.streamlit.app/) – Project is Live at here
 
 
 
